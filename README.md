@@ -9,7 +9,7 @@ Hi there 👋, I'm Abdallah <img src="https://emojis.slackmojis.com/emojis/image
 
 
 <p align="center">
-  <a target="_blank" rel="noreferrer" href="www.youtube.com/@AbdallahAyedTV"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a target="_blank" rel="noreferrer" href="https://www.youtube.com/@AbdallahAyedTV"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/abdallah-ayed"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
