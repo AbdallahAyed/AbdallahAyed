@@ -22,17 +22,18 @@
 
 ### Some words about me
 
-<p>
 <😎 /> I am a passionate 14-year-old programmer .
 <br />
 <💻 /> I enjoy working with ***Javascript***.
 <br />
 <🎯 /> My goal is to transform any idea that comes to mind into reality through code.
 <br />
-<📺 /> I have 2 Youtube channels and I love making content on them.
+<📺 /> I have 2 YouTube channels and I love making content on them.
 <br />
-<🔥 /> Besides programming, I am interested in filming YouTube videos, Weight lifting, and Watching _HxH_!
-</p>
+<🔥 /> Besides programming, I am interested in filming YouTube videos, Weight lifting, and Watching **HxH**!
 
-<img height="120" alt="Thanks for visiting me" width="600" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+
+<p align="center">
+<img height="90" alt="Thanks for visiting me" width="600" align="center" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />  
+</p>
